@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>每周总结-4</title>
+      <link href="/post/347f8a3f.html"/>
+      <url>/post/347f8a3f.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于ai新工具，项目经验"><a href="#每周总结-关于ai新工具，项目经验" class="headerlink" title="每周总结(关于ai新工具，项目经验)"></a>每周总结(关于ai新工具，项目经验)</h1><p>这周稍微有点忙，主要是在学习ai的新工具，以及项目经验的提升</p><h2 id="1-ai新工具"><a href="#1-ai新工具" class="headerlink" title="1.ai新工具"></a>1.ai新工具</h2><p>关于新的idea推荐来自字节的trae，感觉很好，提供了内置的ai模块，同时提供代码一件替换，可以大幅度提高工作效率十分推荐</p><h2 id="2-项目经验"><a href="#2-项目经验" class="headerlink" title="2.项目经验"></a>2.项目经验</h2><p>主要是在忙这个方面的事，嗯上周作为总负责人还是要出一点力的(虽然一直是我在出力)，好具体是对ai对话进行优化，以及对文件的处理，在对ai的回答方面抛弃掉了自己处理的混乱字符流通过使用(highlight.js和clipboard.js)对输出文本流进行处理，使用highlight.js内置方式将ai的文本流转换为高亮代码(真的是太方便，对于以前自己处理都不是一个量级的难度)，然后使用clipboard.js提供对代码进行复制(需处理好处理过程，可能会出现找不到方法的时候)，这是关于ai对话流的优化，还有对于文件来说没啥大的变化主要集中在选择模块上改为Shift多选文件</p><h2 id="3-总结"><a href="#3-总结" class="headerlink" title="3.总结"></a>3.总结</h2><p>从更换使用idea开始到对项目的开发感觉内容有点少了感觉，主要还是心乱了，要准备实习又很忙，本来说做完这段事件可以休息了，结果后面更忙完蛋了qvq，算了留给以后的我在想吧，这周就这样了。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 每周总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每周总结-3</title>
       <link href="/post/aa1b1f9c.html"/>
       <url>/post/aa1b1f9c.html</url>

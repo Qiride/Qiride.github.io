@@ -6,7 +6,7 @@
   <link href="https://qiride.github.io/atom.xml" rel="self"/>
   
   <link href="https://qiride.github.io/"/>
-  <updated>2025-03-16T02:46:58.392Z</updated>
+  <updated>2025-03-22T09:19:40.256Z</updated>
   <id>https://qiride.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>每周总结-4</title>
+    <link href="https://qiride.github.io/post/347f8a3f.html"/>
+    <id>https://qiride.github.io/post/347f8a3f.html</id>
+    <published>2025-03-22T09:03:25.000Z</published>
+    <updated>2025-03-22T09:19:40.256Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于ai新工具，项目经验"><a href="#每周总结-关于ai新工具，项目经验" class="headerlink" title="每周总结(关于ai新工具，项目经验)"></a>每周总结(关于ai新工具，项目经验)</h1><p>这周稍微有点忙，主要是在学习ai的新工具，以及项目经验的提升</p><h2 id="1-ai新工具"><a href="#1-ai新工具" class="headerlink" title="1.ai新工具"></a>1.ai新工具</h2><p>关于新的idea推荐来自字节的trae，感觉很好，提供了内置的ai模块，同时提供代码一件替换，可以大幅度提高工作效率十分推荐</p><h2 id="2-项目经验"><a href="#2-项目经验" class="headerlink" title="2.项目经验"></a>2.项目经验</h2><p>主要是在忙这个方面的事，嗯上周作为总负责人还是要出一点力的(虽然一直是我在出力)，好具体是对ai对话进行优化，以及对文件的处理，在对ai的回答方面抛弃掉了自己处理的混乱字符流通过使用(highlight.js和clipboard.js)对输出文本流进行处理，使用highlight.js内置方式将ai的文本流转换为高亮代码(真的是太方便，对于以前自己处理都不是一个量级的难度)，然后使用clipboard.js提供对代码进行复制(需处理好处理过程，可能会出现找不到方法的时候)，这是关于ai对话流的优化，还有对于文件来说没啥大的变化主要集中在选择模块上改为Shift多选文件</p><h2 id="3-总结"><a href="#3-总结" class="headerlink" title="3.总结"></a>3.总结</h2><p>从更换使用idea开始到对项目的开发感觉内容有点少了感觉，主要还是心乱了，要准备实习又很忙，本来说做完这段事件可以休息了，结果后面更忙完蛋了qvq，算了留给以后的我在想吧，这周就这样了。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于ai新工具，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-关于ai新工具，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于ai新工具，项目经验)&quot;&gt;&lt;/a&gt;每周总结(关于ai新工具，项目经验)&lt;/h</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>每周总结-3</title>
     <link href="https://qiride.github.io/post/aa1b1f9c.html"/>
     <id>https://qiride.github.io/post/aa1b1f9c.html</id>
     <published>2025-03-16T02:20:44.000Z</published>
-    <updated>2025-03-16T02:46:58.392Z</updated>
+    <updated>2025-03-22T09:02:45.663Z</updated>
     
     <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于软件测试-node学习-项目重构"><a href="#每周总结-关于软件测试-node学习-项目重构" class="headerlink" title="每周总结(关于软件测试,node学习,项目重构)"></a>每周总结(关于软件测试,node学习,项目重构)</h1><h2 id="1-软件测试"><a href="#1-软件测试" class="headerlink" title="1.软件测试"></a>1.软件测试</h2><p>本周学校的自动化测试的学习对我来说挺眼熟，过去有个一关于安卓的比赛我去了，其中一个考题就是使用安卓的自动化测试对程序进行测试，那是我这个题目输的一塌糊涂，过了大概1年左右又开始学习这种测试挺开心的，毕竟前面的技术债，还是没太搞懂</p><p>这周还是学的较为基础的东西，关于环境的搭建，和自动化的理解，对于过去使用安卓进行自动化测试的急切感和目的性来说，在这个的基础上进行全面的学习是一种挺好的学习感受</p><h2 id="2-node的学习"><a href="#2-node的学习" class="headerlink" title="2.node的学习"></a>2.node的学习</h2><p>老学习了哈，上周对于node还是很少了，都在处理项目上的问题，这周倒是学了不少，从path的使用到http的使用，感觉对node的理解又加深了不少，对于node的http模块目前是对请求和响应方面的对于这个初次接触的模块我感觉是处于一个网页较为底层的部分了，感觉和vue的差别还是有点大的数据都要自己从头和体自己拿，这部分还是不太熟练</p><h2 id="3-项目重构"><a href="#3-项目重构" class="headerlink" title="3.项目重构"></a>3.项目重构</h2><p>周2是项目的甲方过来了，根据需求我感觉需要大改一下，我开始认为是要制作多种ai的对话效果，甲方要求是专精于一个模型即可，开始做的补丁对项目结构有了巨大的差别，所以用了2天对项目进行重构，重构过程中遇到了2个问题一个是关于文件处理方面的，用户上传文件时后台一直没有存上，找了很久结果发现是filelist的问题，我没有把文件类型换过来后台要求是file我发的是objectfile，解决方案是使用new FormData()构建请求体，嗯还有一个问题可能也不算是问题，关于重新对话时是要求访问一个新的接口但是这个请求体和响应过程又和对话接口很像，按道理来说应该是要将对话接口做下拆分，然后分别调用，时间原因我就直接使用Ctrl+c/Ctrl+v的方式创建了一个副本在此基础上修改，后续有时间会进行修改</p><p>关于项目的经验，这周在重构的过程中发现了重构前不少思想不合理的地方，包括数据传输，数据结构的方面，重点说一下结构方面的问题，以前看过一篇文章总体思想是服务于业务的数据结构需要自定义，当时还不理解，在重构的过程中，发现有些东西还是需要自定义，比如数据模型，对话的数据模型，请求的数据模型等都是需要自行完善的，其中少不了沟通，沟通的重要性是不言而喻的，感觉对于程序员来说想要更上一层楼是需要懂得人际交往的，得提高沟通能力吧！</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>小结，本周做的事还不少，学校的ai对话流，php，软件测试，自己的node，项目的经验，真是美好的一周，有所收获。</p></blockquote>]]></content>
     
