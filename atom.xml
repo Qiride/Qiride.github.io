@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大爱の小窝</title>
+  
+  <subtitle>落魄谷中寒风吹,春秋蝉鸣少年归</subtitle>
+  <link href="https://qiride.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://qiride.github.io/"/>
+  <updated>2025-04-20T02:18:50.217Z</updated>
+  <id>https://qiride.github.io/</id>
+  
+  <author>
+    <name>大爱黎尊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每周总结-7</title>
+    <link href="https://qiride.github.io/post/ad76db85.html"/>
+    <id>https://qiride.github.io/post/ad76db85.html</id>
+    <published>2025-04-20T01:58:58.000Z</published>
+    <updated>2025-04-20T02:18:50.217Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-自动化测试，TS，React"><a href="#每周总结-自动化测试，TS，React" class="headerlink" title="每周总结(自动化测试，TS，React)"></a>每周总结(自动化测试，TS，React)</h1><p>关于本周的收获包括上课内容和课下内容，自动化测试，TS，React</p><h1 id="1-关于自动化测试"><a href="#1-关于自动化测试" class="headerlink" title="1.关于自动化测试"></a>1.关于自动化测试</h1><p>关于自动化测试本周学习的是显式和隐式等待是python的selenium测试工具通过使用网页驱动完成网页的自动化测试,显式和隐式的区别在于:</p><ol><li>应用范围：显式等待通常用于特定的元素或条件，而隐式等待是全局设置，应用于所有的元素查找。</li><li>灵活性：显式等待提供了更多的灵活性，因为它可以根据不同的条件进行等待，而隐式等待对所有元素使用相同的等待时间。</li><li>性能：显式等待通常更高效，因为它只在必要时等待，而隐式等待在每次查找元素时都会等待，可能会导致测试执行时间变长。</li><li>编码：显式等待需要更多的编码工作，因为你需要定义等待条件和最大等待时间，而隐式等待只需要设置一次即可。</li></ol><p>主要是根据需求自行选择使用即可</p><h1 id="2-关于TS"><a href="#2-关于TS" class="headerlink" title="2.关于TS"></a>2.关于TS</h1><p>ts呢是新学的主要是对于js的类型为空看的太多了，想换一个强类型的试试，目前是学习了以下几点:</p><ol><li>类型-可以使用类似于java的类和接口的方式自定义数据模型还是很有用的在对于项目协调上有不少的作用，与后端完成数据模型的交互，减少了很多的错误</li><li>类型检查-在编译阶段进行类型检查，可以提早发现代码的typeError每次写js调试的时候总是会跳出这个报错，ts在编译阶段就可以发现</li></ol><p>以上呢是这周我对于ts的学习部分的理解和总结</p><h1 id="3-关于React"><a href="#3-关于React" class="headerlink" title="3.关于React"></a>3.关于React</h1><p>react呢是新学的，主要是项目基本开发完成了现在有点无聊找点事情做就选择了react进行学习,主要是学习了以下几点:</p><ol><li>关于基础语法-react一react基本就是在逻辑语法里面写标签通过jsx的语法来实现，对于react的基础语法还是比较简单的</li><li>关于组件-组件是react的核心概念，通过组件可以实现代码的复用，提高开发效率，对于组件的使用也比较简单</li><li>关于状态管理-状态管理是react的核心概念，通过状态管理可以实现组件之间的数据共享，提高开发效率，对于状态管理的使用也比较简单</li></ol><p>我觉得react与vue的区别在于设计理念上，jsx文件和vue的文件差别还是挺大的，vue的标签和逻辑代码需要分开写，而react可以写在一起，感觉vue是通过组件来实现的，而react是通过函数来实现的，感觉vue的组件更加的清晰，react的函数更加的灵活，这个方面的设计理念还是要区分开的</p><h1 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h1><p>这周的收获还是挺大的，主要是在学习自动化测试方面的知识，以及TS方面的知识，以及React方面的知识，关于ts和react的学习是对于我来说是比较新的内容了，后续的话可能可以在这个过程中有更大的收获</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-自动化测试，TS，React&quot;&gt;&lt;a href=&quot;#每周总结-自动化测试，TS，React&quot; class=&quot;headerlink&quot; title=&quot;每周总结(自动化测试，TS，React)&quot;&gt;&lt;/a&gt;每周总结(自动化测试，TS，R</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-6</title>
+    <link href="https://qiride.github.io/post/4378baa9.html"/>
+    <id>https://qiride.github.io/post/4378baa9.html</id>
+    <published>2025-04-13T07:00:00.000Z</published>
+    <updated>2025-04-20T02:04:01.169Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-智能体，vue，项目经验"><a href="#每周总结-智能体，vue，项目经验" class="headerlink" title="每周总结(智能体，vue，项目经验)"></a>每周总结(智能体，vue，项目经验)</h1><p>上周太忙了所以没有总结，又搞无人机又搞设计的有点忙，好了来说一下关于这两周的收获</p><h2 id="1-关于智能体"><a href="#1-关于智能体" class="headerlink" title="1.关于智能体"></a>1.关于智能体</h2><p>智能体呢学到了新的异步处理方式，通过输入的不同问题识别不同的东西访问不同的模型，还有老师给了我一个关于机智云使用智能体的玩具，在coze开发了一个智能体然后在机智云魔方上面调用，挺有意思的，目前还是比较简单的后续可以加多一点东西</p><p>还有一个点就是关于ai新工具的使用，Cursor，还有使用ai制作ppt还是挺新奇的体验，还有百度的通过需求生成网址的产品，ai还是厉害的，现在需要学会去使用这种ai工具了，是大大提高了我的工作效率</p><p>还有关于一个视觉开发模块的开发板的内容，主要是基于python通过摄像头进行内容识别等工作</p><h2 id="2-关于vue"><a href="#2-关于vue" class="headerlink" title="2.关于vue"></a>2.关于vue</h2><p>这个东西不是很想写，但是呢换个角度想也是好事，关于考证是需要使用vue2的，我去使用vue2嵌入在html中去写写法让我不是很舒服，但是呢使用以前比较简陋的框架会加深对于过去的理解，对于现在的框架也会有更多的了解，理解底层的渲染逻辑，毕竟不能固化自己的技术栈</p><h2 id="3-关于项目经验"><a href="#3-关于项目经验" class="headerlink" title="3.关于项目经验"></a>3.关于项目经验</h2><p>项目方面的话也是比较老的东西了，关于JWT的前端使用因为第一次用闹了点乌龙出来，后端是做的刷新令牌，我没有做自动更新的内容，然后就在写这个，也没啥大难度</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这周的收获还是挺大的，主要是在学习智能体方面的知识，以及vue方面的知识，以及项目经验的提升，主要还是理念方面的，现在我感觉是需要成为善用ai的开发者，还有不要固化技术框架，可以用它，但是请不要不理解为什么这样做</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-智能体，vue，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-智能体，vue，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结(智能体，vue，项目经验)&quot;&gt;&lt;/a&gt;每周总结(智能体，vue，项目经验)&lt;/h</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-5</title>
+    <link href="https://qiride.github.io/post/4378baa9.html"/>
+    <id>https://qiride.github.io/post/4378baa9.html</id>
+    <published>2025-03-30T03:20:44.000Z</published>
+    <updated>2025-03-30T03:39:32.943Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于智能体的学习，软件测试的学习，项目经验"><a href="#每周总结-关于智能体的学习，软件测试的学习，项目经验" class="headerlink" title="每周总结(关于智能体的学习，软件测试的学习，项目经验)"></a>每周总结(关于智能体的学习，软件测试的学习，项目经验)</h1><p>本周的收获也不算太多，主要是在学习智能体方面的知识，以及软件测试方面的知识，以及项目经验的提升</p><h2 id="1-智能体的学习"><a href="#1-智能体的学习" class="headerlink" title="1.智能体的学习"></a>1.智能体的学习</h2><p>关于智能体，这周我认为是我收获最大的一个点，从智能体的完整搭建，到智能体的优化，通过输出组件添加卡片消息为智能体绑定不同的输出内容，通过异步的方式为智能体的响应提升优化，嗯关于异步的方面又让我发现了编程思维是互通的，关于基础优化的方式于语言无关，主要是看编程习以及代码质量</p><h2 id="2-自动化测试的学习"><a href="#2-自动化测试的学习" class="headerlink" title="2.自动化测试的学习"></a>2.自动化测试的学习</h2><p>上课的课程，在课上我和我同学突然有一个点子，通过读取文件内容的方式修改每次测试的输入内容可能可以实现关于自动化输入账号密码创建账号的功能，在此之前是通过Selenium完成对web的自动化测试，收获还是挺大的</p><h2 id="3-项目经验"><a href="#3-项目经验" class="headerlink" title="3.项目经验"></a>3.项目经验</h2><p>项目方面，还是关于ai对话的那个项目只是在对代码完成优化，现在要求显示对应的文件名称了，如第二次总结时的问题，好了还是要克服的，想了一段时间，打算再将其封装一层，将url或者file转换为一个obj包括name和url将file文件放到缓存里面也给个url，在其上方只显示name，不需要删除，还有就是关于使用jwt完成身份验证，后台说是由24小时的可用时间开始的时候会有一个token同时提供一个更新token需要再次调用重置token完成token的更新</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>本周还是太忙了，搞简历搞学历搞项目忙忙的，还是挺有收获的一周的，下周见拜拜</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于智能体的学习，软件测试的学习，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-关于智能体的学习，软件测试的学习，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于智能体的学习，软件测试的学习，项目经验)</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-4</title>
+    <link href="https://qiride.github.io/post/347f8a3f.html"/>
+    <id>https://qiride.github.io/post/347f8a3f.html</id>
+    <published>2025-03-22T09:03:25.000Z</published>
+    <updated>2025-03-22T09:20:52.521Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于ai新工具，项目经验"><a href="#每周总结-关于ai新工具，项目经验" class="headerlink" title="每周总结(关于ai新工具，项目经验)"></a>每周总结(关于ai新工具，项目经验)</h1><p>这周稍微有点忙，主要是在学习ai的新工具，以及项目经验的提升</p><h2 id="1-ai新工具"><a href="#1-ai新工具" class="headerlink" title="1.ai新工具"></a>1.ai新工具</h2><p>关于新的idea推荐来自字节的trae，感觉很好，提供了内置的ai模块，同时提供代码一件替换，可以大幅度提高工作效率十分推荐</p><h2 id="2-项目经验"><a href="#2-项目经验" class="headerlink" title="2.项目经验"></a>2.项目经验</h2><p>主要是在忙这个方面的事，嗯上周作为总负责人还是要出一点力的(虽然一直是我在出力)，好具体是对ai对话进行优化，以及对文件的处理，在对ai的回答方面抛弃掉了自己处理的混乱字符流通过使用(highlight.js和clipboard.js)对输出文本流进行处理，使用highlight.js内置方式将ai的文本流转换为高亮代码(真的是太方便，对于以前自己处理都不是一个量级的难度)，然后使用clipboard.js提供对代码进行复制(需处理好处理过程，可能会出现找不到方法的时候)，这是关于ai对话流的优化，还有对于文件来说没啥大的变化主要集中在选择模块上改为Shift多选文件</p><h2 id="3-总结"><a href="#3-总结" class="headerlink" title="3.总结"></a>3.总结</h2><p>从更换使用idea开始到对项目的开发感觉内容有点少了感觉，主要还是心乱了，要准备实习又很忙，本来说做完这段事件可以休息了，结果后面更忙完蛋了qvq，算了留给以后的我在想吧，这周就这样了。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于ai新工具，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-关于ai新工具，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于ai新工具，项目经验)&quot;&gt;&lt;/a&gt;每周总结(关于ai新工具，项目经验)&lt;/h</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-3</title>
+    <link href="https://qiride.github.io/post/aa1b1f9c.html"/>
+    <id>https://qiride.github.io/post/aa1b1f9c.html</id>
+    <published>2025-03-16T02:20:44.000Z</published>
+    <updated>2025-03-22T09:02:45.663Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于软件测试-node学习-项目重构"><a href="#每周总结-关于软件测试-node学习-项目重构" class="headerlink" title="每周总结(关于软件测试,node学习,项目重构)"></a>每周总结(关于软件测试,node学习,项目重构)</h1><h2 id="1-软件测试"><a href="#1-软件测试" class="headerlink" title="1.软件测试"></a>1.软件测试</h2><p>本周学校的自动化测试的学习对我来说挺眼熟，过去有个一关于安卓的比赛我去了，其中一个考题就是使用安卓的自动化测试对程序进行测试，那是我这个题目输的一塌糊涂，过了大概1年左右又开始学习这种测试挺开心的，毕竟前面的技术债，还是没太搞懂</p><p>这周还是学的较为基础的东西，关于环境的搭建，和自动化的理解，对于过去使用安卓进行自动化测试的急切感和目的性来说，在这个的基础上进行全面的学习是一种挺好的学习感受</p><h2 id="2-node的学习"><a href="#2-node的学习" class="headerlink" title="2.node的学习"></a>2.node的学习</h2><p>老学习了哈，上周对于node还是很少了，都在处理项目上的问题，这周倒是学了不少，从path的使用到http的使用，感觉对node的理解又加深了不少，对于node的http模块目前是对请求和响应方面的对于这个初次接触的模块我感觉是处于一个网页较为底层的部分了，感觉和vue的差别还是有点大的数据都要自己从头和体自己拿，这部分还是不太熟练</p><h2 id="3-项目重构"><a href="#3-项目重构" class="headerlink" title="3.项目重构"></a>3.项目重构</h2><p>周2是项目的甲方过来了，根据需求我感觉需要大改一下，我开始认为是要制作多种ai的对话效果，甲方要求是专精于一个模型即可，开始做的补丁对项目结构有了巨大的差别，所以用了2天对项目进行重构，重构过程中遇到了2个问题一个是关于文件处理方面的，用户上传文件时后台一直没有存上，找了很久结果发现是filelist的问题，我没有把文件类型换过来后台要求是file我发的是objectfile，解决方案是使用new FormData()构建请求体，嗯还有一个问题可能也不算是问题，关于重新对话时是要求访问一个新的接口但是这个请求体和响应过程又和对话接口很像，按道理来说应该是要将对话接口做下拆分，然后分别调用，时间原因我就直接使用Ctrl+c/Ctrl+v的方式创建了一个副本在此基础上修改，后续有时间会进行修改</p><p>关于项目的经验，这周在重构的过程中发现了重构前不少思想不合理的地方，包括数据传输，数据结构的方面，重点说一下结构方面的问题，以前看过一篇文章总体思想是服务于业务的数据结构需要自定义，当时还不理解，在重构的过程中，发现有些东西还是需要自定义，比如数据模型，对话的数据模型，请求的数据模型等都是需要自行完善的，其中少不了沟通，沟通的重要性是不言而喻的，感觉对于程序员来说想要更上一层楼是需要懂得人际交往的，得提高沟通能力吧！</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>小结，本周做的事还不少，学校的ai对话流，php，软件测试，自己的node，项目的经验，真是美好的一周，有所收获。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于软件测试-node学习-项目重构&quot;&gt;&lt;a href=&quot;#每周总结-关于软件测试-node学习-项目重构&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于软件测试,node学习,项目重构)&quot;&gt;&lt;/a&gt;每周总</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-2</title>
+    <link href="https://qiride.github.io/post/dd1c2f0a.html"/>
+    <id>https://qiride.github.io/post/dd1c2f0a.html</id>
+    <published>2025-03-09T03:51:07.000Z</published>
+    <updated>2025-03-09T04:17:55.478Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于ai工作流的制作-node的学习-没有规范的前后端交互文档"><a href="#每周总结-关于ai工作流的制作-node的学习-没有规范的前后端交互文档" class="headerlink" title="每周总结(关于ai工作流的制作,node的学习,没有规范的前后端交互文档)"></a>每周总结(关于ai工作流的制作,node的学习,没有规范的前后端交互文档)</h1><h2 id="1-ai工作流的制作"><a href="#1-ai工作流的制作" class="headerlink" title="1. ai工作流的制作"></a>1. ai工作流的制作</h2><p>本周老师有带着我们制作ai工作流通过coze平台对工作流进行制作-包括城市旅游，读书助手等，聊聊收获，对于coze这种傻瓜式的工作流制作我是感到简单，现在制作工作流不太需要在意之间的同步啊异步等待之类的，这是初次制作一个较为复杂的工作流感到有点难度在对数据的处理上还是需要注意，同时要注意区分工具，插件的区别</p><h2 id="2-node的学习"><a href="#2-node的学习" class="headerlink" title="2. node的学习"></a>2. node的学习</h2><p>本周对于node的学习主要集中在path和fs之间尝试使用不同的fs来完成不同的操作，例如批量重命名文件具体操作是通过查询一个文件夹下的的所有文件来对其进行重命名，这个案例不算难，但是我觉得是一个非常好对于文件处理的案例，通过这个案例可以发现许多看起来复杂的文件操作都是通过简单的文件操作组合处理完成的</p><h2 id="3-没有规范的前后端交互文档的后果"><a href="#3-没有规范的前后端交互文档的后果" class="headerlink" title="3. 没有规范的前后端交互文档的后果"></a>3. 没有规范的前后端交互文档的后果</h2><p>为什么会放这个点呢，我这周在做项目的时间大多时间都被他坑惨啦！简单来说就是开始的时候我们项目组的后端负责人并没有统一文件的传输过程，导致我在对接的时候总是出现问题，我们有一个上传文件的接口，上传文件response是没有给我文件地址，所有我在上传问答时需要将文件发给后台，但是我们制作时是有想法在用户发送问题时在下方显示文件的，然而在通过历史记录写入对话记录时返回的是地址，因为前端开发使用的是模块化这个种模式，在处理显示文件时不知道时地址还是文件，所以我就需要将文件进行处理，然后再显示，真的搞死我了除了关于文件的处理，还有一个是关于markdown的处理，我们会制作一个markdown的解题思路，但是在这个数据传输上又出了问题，开始说的是使用流式响应，结果给我的是流式但是最后还有个url不是哥们我都用流式了肯定就是我要来做markdown的生成过程啊，然后那个数据又是string我还要切片提取，这个url单独出来咋搞也不是markdown的格式，这样数据又很难处理了。</p><p>所以说，在一个项目组没有规范的前后端交互文档的后果就是，增加双方的工作量，后台做了处理，前端也做了处理，啪一看完啦，然后就开始写代码，改了又改减少了许多时间以及无故增加了不少工作量</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>总的来说，本周收获也不小，从ai的工作流到node的学习，还有做项目的经验，收获满满</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于ai工作流的制作-node的学习-没有规范的前后端交互文档&quot;&gt;&lt;a href=&quot;#每周总结-关于ai工作流的制作-node的学习-没有规范的前后端交互文档&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-1</title>
+    <link href="https://qiride.github.io/post/44157eb0.html"/>
+    <id>https://qiride.github.io/post/44157eb0.html</id>
+    <published>2025-03-02T02:25:31.000Z</published>
+    <updated>2025-03-02T09:38:41.468Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-关于流式-node的学习-ai字符的处理逻辑"><a href="#每周总结-关于流式-node的学习-ai字符的处理逻辑" class="headerlink" title="每周总结(关于流式,node的学习,ai字符的处理逻辑)"></a>每周总结(关于流式,node的学习,ai字符的处理逻辑)</h1><h2 id="1-流式响应"><a href="#1-流式响应" class="headerlink" title="1. 流式响应"></a>1. 流式响应</h2><p>前些日子，我与同学有一个关于ai的项目，通过调用大模型制作一个类似于ai对话的web应用，在问题较为复杂时ai会出现明显的等待时间所以我们决定使用流式响应来解决这个问题，但是在使用过程中遇到了一些问题，所以我决定写一篇文章来总结一下流式响应的使用。</p><h3 id="1-1-什么是流式响应"><a href="#1-1-什么是流式响应" class="headerlink" title="1.1 什么是流式响应"></a>1.1 什么是流式响应</h3><p>流式响应是一种响应式设计的方式，它的核心思想是将响应式设计的概念应用于流式数据。在传统的响应式设计中，我们通常会根据屏幕的宽度和高度来调整页面的布局和样式，但是在流式响应中，我们会根据数据的变化来调整页面的布局和样式。</p><h3 id="1-2-流式响应的优点"><a href="#1-2-流式响应的优点" class="headerlink" title="1.2 流式响应的优点"></a>1.2 流式响应的优点</h3><p>流式响应的优点有很多，其中最主要的优点是可以提高页面的响应速度，因为它可以根据数据的变化来调整页面的布局和样式，而不需要重新加载整个页面。另外，流式响应还可以提高页面的可访问性，因为它可以根据数据的变化来调整页面的布局和样式，而不需要重新加载整个页面。</p><h3 id="1-3-关于使用vue解决流式响问题"><a href="#1-3-关于使用vue解决流式响问题" class="headerlink" title="1.3 关于使用vue解决流式响问题"></a>1.3 关于使用vue解决流式响问题</h3><p>因为前端代码使用的全局的请求axios，我使用axios修改响应的数据无法将其改为流式(感觉是我能力问题)，所以我是通过一个新的类(比较稳妥的方式)来实现，通过将其进行封装进行了复用</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://www.helloimg.com/i/2025/03/02/67c423384b70e.png"/></div></div><p>如上使用XMLHttpRequest类完成对于流式的定义,具体作用可见官网,这个对象提供了流式的效果</p><h3 id="1-4-总结"><a href="#1-4-总结" class="headerlink" title="1.4 总结"></a>1.4 总结</h3><p>对于本次使用流式响应的总结就是，通过使用XMLHttpRequest类完成对于流式的定义，通过将其进行封装进行了复用，这样就可以实现对于流式响应的使用，对于我来说是一次这是一次尝试</p><h2 id="2-node的学习"><a href="#2-node的学习" class="headerlink" title="2 node的学习"></a>2 node的学习</h2><h3 id="2-1-为什么学习node"><a href="#2-1-为什么学习node" class="headerlink" title="2.1 为什么学习node"></a>2.1 为什么学习node</h3><p>谈谈为什么我要学习node，第一我是一个前端开发，我需要对vue的学习进行巩固同时了解工具链，其次这对于我来说是有挑战的，</p><h3 id="2-2-fs语法"><a href="#2-2-fs语法" class="headerlink" title="2.2 fs语法"></a>2.2 fs语法</h3><p>fs语法是类似于linux中的文件管理，在基于node的基础上进行文件处理文件写入等操作，主要是对文件进行操作,fs内置模块通过require引入，基本都会有返回函数(err=&gt;{})如此的格式，如有错误err会是错误信息，没有错误err会是null，在node中也是有流式写入的概念的</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://www.helloimg.com/i/2025/03/02/67c423378db81.png"/></div></div><h3 id="2-3-总结"><a href="#2-3-总结" class="headerlink" title="2.3 总结"></a>2.3 总结</h3><p>对于fs的学习，我感觉是基础中的基础</p><h2 id="3-ai字符的处理逻辑"><a href="#3-ai字符的处理逻辑" class="headerlink" title="3 ai字符的处理逻辑"></a>3 ai字符的处理逻辑</h2><p>对于ai字符的处理逻辑，这周可搞s我了，写那个ai项目有一大半的时间都在处理这个问题，在这个问题之前我们需要了解一下ai的运行逻辑<br>参考网址(<a href="https://cloud.tencent.com/document/product/1729/105701" title="" target=""></a>)</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://www.helloimg.com/i/2025/03/02/67c42338172e1.png"/></div></div><p>如上是ai返回的数据格式是一个数组字符串，而在这个数组上，我可遭老罪拉，因为是流式显示我想显示打字机的效果所以我需要将其进行处理，(data: [])这个类似于ai给我的格式然后先将data:删除然后在使用JSON.parse()进行解析，然后使用for循环进行遍历，然后写入字符串完成打字机的效果</p><p>还有deepseek的爆火，我们也不例外的接入的ai模型，关于r1模型会有一个思考过程这个过程显示起来还好，项目组的后台呢会存储历史记录方便返回给我但是呢后台存储的只有ai回答的的没有思考过程所以很难受一直不知道什么问题找了好久，最后呢是通过定义自定义的切片物来完成操作</p><h2 id="4-本周总结"><a href="#4-本周总结" class="headerlink" title="4 本周总结"></a>4 本周总结</h2><p>这周的收获大致这些了，关于流式响应的处理逻辑，fs的学习，字符串的处理逻辑，关于黑盒测试的复习以及关于对于coze平台对于ai工作流的学习，偶真是充实的一周，下周见</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-关于流式-node的学习-ai字符的处理逻辑&quot;&gt;&lt;a href=&quot;#每周总结-关于流式-node的学习-ai字符的处理逻辑&quot; class=&quot;headerlink&quot; title=&quot;每周总结(关于流式,node的学习,ai字符的处理</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于前端的知识三</title>
+    <link href="https://qiride.github.io/post/901ce88d.html"/>
+    <id>https://qiride.github.io/post/901ce88d.html</id>
+    <published>2025-02-17T07:16:07.000Z</published>
+    <updated>2025-02-17T08:27:12.507Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="关于前端的知识三"><a href="#关于前端的知识三" class="headerlink" title="关于前端的知识三"></a>关于前端的知识三</h1><h2 id="1-用户界面"><a href="#1-用户界面" class="headerlink" title="1. 用户界面"></a>1. 用户界面</h2><h3 id="1-1-什么是用户界面"><a href="#1-1-什么是用户界面" class="headerlink" title="1.1 什么是用户界面"></a>1.1 什么是用户界面</h3><p>用户界面(UI)全称是User Interface,是人与机器设备交互的必要窗口,有许多种用户界面,我们可以根据它的呈现方式,承载功能来进行划分,如图形用户界面(GUI),命令行界面(CLI),语言用户界面(LUI)以及自然用户界面(NUI),前端的核心任务就是构建用户界面,而如何高效的构建出良好的用户界面则是现代前端要进一步考虑的问题</p><p>传统的前端用户界面通常是指通过使用HTML,CSS,JS三件套制作的网页</p><ul><li><strong>HTML</strong>: 描述网页骨架</li><li><strong>CSS</strong>: 为网页提供好看的样式</li><li><strong>JS</strong>: 为网页添加交互功能\</li></ul><p>相比于过去,现代前端的用户界面已经不仅仅是普普通通的网页,还有跨平台桌面应用,智能手机中的H5,小程序和Native App,甚至是VR中的交互界面,虽然大多是的产品底层还是3件套,但是根据用户场景,用户界面的构建方式会有很大的不同</p><h3 id="1-2-CSS框架"><a href="#1-2-CSS框架" class="headerlink" title="1.2 CSS框架"></a>1.2 CSS框架</h3><p>CSS框架是一种对原生CSS的封装和抽象,Bootstrap是早期最典型的代表,其中内置了一组风格统一的class样式表,开发者只需要在必要的位置填入class名,即可免去写一大堆的CSS属性的工作,现代CSS框架还提出了布局,主题,可访问性,工具h函数,响应式设计等概念,这些概念使得CSS框架的使用更加方便,同时也提高了开发效率</p><p>以Tailwind CSS为代表工具化CSS框架脱颖而出,开发者组合使用其原子化工具类即可实现任何UI设计,这是一种更简单灵活的CSS开发范式,CSS框架简化了传统CSS的编写方式</p><h3 id="1-2-UI框架"><a href="#1-2-UI框架" class="headerlink" title="1.2 UI框架"></a>1.2 UI框架</h3><p>但是距离构建出一个完整的用户界面还差了很多,我们还需要另一种技术,它就是专业对口的UI架构,直接使用HTML,CSS,JS构建用户界面虽然简单直接,但是在开发效率和可维护性方面处于劣势,UI框架可以说是对三件套的高级抽象,通常包含虚拟DOM,数据驱动,组件化,代码编译和工具链配套这几个要素,目的在于让开发者使用更自然的方式构建出高可复用的用户界面,常见的Vue,React和Svelte等都属于UI框架的范畴</p><h3 id="1-3-组件库"><a href="#1-3-组件库" class="headerlink" title="1.3 组件库"></a>1.3 组件库</h3><p>组件库通常依赖于某个特定的UI框架,如依赖于React的Ant Design,依赖于Vue的Element等,也有不依赖UI框架的Headless UI和Radix UI等</p><p>关于组件库的内部组件划分我可以分为</p><ul><li><strong>基础组件</strong>: 诸如Button,Input等每个组件库都会有的样式,称之为基础组件</li><li><strong>模板组件</strong>: 基于基础组件在组合封装一层的功能更复杂的组件</li><li><strong>业务组件</strong>: 基于模板组件添加数据接口和数据处理逻辑的组件</li></ul><p>可以预见每一层抽象都会降低复用性为代价,但抽象带来的手机是开发效率显著提升,具备复用价值的业务组件就是一种最佳实践,是企业最重要的前端资产之一</p><h2 id="2-应用框架"><a href="#2-应用框架" class="headerlink" title="2. 应用框架"></a>2. 应用框架</h2><h3 id="2-1-为什么需要应用框架"><a href="#2-1-为什么需要应用框架" class="headerlink" title="2.1 为什么需要应用框架"></a>2.1 为什么需要应用框架</h3><p>随着前端业务越来越复杂,我们会在UI框架之外做很多看起来与UI无关的事情,如引入状态管理方案,做一套统一的布局,抽象一个更好用的数据请求方法,优化打包效率等等,而这些看起来很通用UI框架做起来又很费劲,正是应用框架会考虑的事情,应用框架的覆盖面较广</p><ul><li><strong>React</strong>: Next.js,UmiJS,Modern.js等开源的框架</li><li><strong>Vue</strong>: Nuxt.js,Quasar等开源的框架</li><li><strong>自成一体</strong>: Astro,Angular等开源的框架</li><li><strong>桌面应用</strong>: Ekectron,Tauri等开源的框架</li><li><strong>小程序</strong>: Taro,Uniapp等开源的框架</li><li><strong>移动原生应用</strong>: React Native,Flutter,lonic等开源的框架</li></ul><p>应用框架基本都包括</p><ul><li><strong>路由(Routing)</strong>: 路由规定了页面的组织方式,布局和跳转方式,也可以帮助框架更好的分包,以提升运行时的加载效率</li><li><strong>样式(Styling)</strong>: 一套CSS开发方案,通常包括CSS预处理器,CSS Modules,CSS-in-JS和CSS框架</li><li><strong>数据获取(Fetching)</strong>: 通常包含内置请求库,缓存,服务端渲染等经过框架优化的方案</li><li><strong>测试(Testing)</strong>: 专为框架定制的一套环境和测试工具,方便开发者更优雅的编写测试代码</li><li><strong>插件(Plugin)</strong>: 为方便开发者扩展框架其功能所预留的口子,通过它可以自定义构建行为,来尽可能满足定制化需求</li><li><strong>部署(Deploying)</strong>: 生产应用上线方案,包含不同构建产物的生成配置,静态资源部署,全栈应用部署方式等</li></ul><h3 id="2-2-企业级应用框架"><a href="#2-2-企业级应用框架" class="headerlink" title="2.2 企业级应用框架"></a>2.2 企业级应用框架</h3><p>应用框架时从小型业务过渡到大型业务的必经之路,许多大厂会在开源应用框架的基础上在做一层定制封装,增加适用于自身业务特点的功能,比如对接内部各种服务的插件,蚂蚁集团内部的Bigfish框架就是在UmisJS的基础上添加了许多Plugins来拓展功能</p><h3 id="2-3-应用架构"><a href="#2-3-应用架构" class="headerlink" title="2.3 应用架构"></a>2.3 应用架构</h3><p>应用架构时应用组织范式,更关注不同范式的优缺点,现代前端常见的应用架构方案又MPA,SPA,PWA,Micro-Frontends和Islands这几种</p><ul><li><strong>MPA</strong>: 传统的多页面应用,每个页面都是一个独立的HTML文件,通过浏览器的前进后退按钮进行页面切换</li><li><strong>SPA</strong>: 单页面应用,所有页面都在同一个HTML文件中,通过JS动态渲染不同的页面内容,通过路由来实现页面切换</li><li><strong>PWA</strong>: 渐进式Web应用,是一种介于传统Web应用和Native应用之间</li><li><strong>Micro-Frontends</strong>: 微前端,是一种将多个独立的前端应用组合在一起的架构模式,每个应用都可以独立开发,独立部署,独立测试,独立维护,通过框架来实现应用之间的通信和协作</li><li><strong>Islands</strong>: 岛架构,是一种将页面拆分成多个独立的组件,每个组件都可以独立开发,独立部署,独立测试,独立维护,通过框架来实现</li></ul><p>用一种应用框架可以支持不同的应用架构,如UmiJS支持SPA,MPA和MFE架构,Quasar支持SPA,PWA,Electron架构,Morden.js支持SPA,MFE架构,Astro子专注于Islands架构等等</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;关于前端的知识三&quot;&gt;&lt;a href=&quot;#关于前端的知识三&quot; class=&quot;headerlink&quot; title=&quot;关于前端的知识三&quot;&gt;&lt;/a&gt;关于前端的知识三&lt;/h1&gt;&lt;h2 id=&quot;1-用户界面&quot;&gt;&lt;a href=&quot;#1-用户界面&quot; cl</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="https://qiride.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于前端的知识二</title>
+    <link href="https://qiride.github.io/post/d2407e80.html"/>
+    <id>https://qiride.github.io/post/d2407e80.html</id>
+    <published>2025-02-14T05:42:36.000Z</published>
+    <updated>2025-02-17T07:28:57.836Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="关于前端的知识二"><a href="#关于前端的知识二" class="headerlink" title="关于前端的知识二"></a>关于前端的知识二</h1><h2 id="1-编程语言"><a href="#1-编程语言" class="headerlink" title="1. 编程语言"></a>1. 编程语言</h2><h3 id="1-1-JavaScript和ECMAScript规范"><a href="#1-1-JavaScript和ECMAScript规范" class="headerlink" title="1.1 JavaScript和ECMAScript规范"></a>1.1 JavaScript和ECMAScript规范</h3><p>ECMAScript 6或者说是ECMAScript 2015,他是一套文档,规范了脚本语言的设计包括语法,数据类型,内置对象等等</p><p>JavaScript则是遵循这套规范的编程语言之一,ES规范确保了无论在何处使用JS,它的写法和行为都是一致的,ES每年都在引入新特性从ES2015的let/const,箭头函数到ES2024的Object.groupBy等等,借助现代工具链的转义和polyfills的等效实现,我们可以在不支持这种新特性的环境下使用它们</p><h3 id="1-2-TypeScript"><a href="#1-2-TypeScript" class="headerlink" title="1.2 TypeScript"></a>1.2 TypeScript</h3><p>TypeScript是JavaScript的超集,它在JavaScript的基础上添加了静态类型检查,这使得代码更加健壮,易于维护,同时也可以在编译阶段发现一些错误,使得许多错误常见错误在编译阶段就会暴露出来</p><h3 id="1-3-Rust"><a href="#1-3-Rust" class="headerlink" title="1.3 Rust"></a>1.3 Rust</h3><p>近些年Rust在前端发展十分迅猛,正在逐步占领前端工具链,举个栗子,对标Babel的SWC,对标Webpack的Espace,Farm,Next.js的Turbopack都是基于Rust语言编写的,出现这种情况的最根本原因是前端项目的体谅越来越大,构建性能已经成为瓶颈,传统的打包优化方案已经无法进一步提高性能,所以需要借助性能更强的编程语言</p><h3 id="1-4-WebAssembly"><a href="#1-4-WebAssembly" class="headerlink" title="1.4 WebAssembly"></a>1.4 WebAssembly</h3><p>WebAssembly简称Wasm最早用于浏览器计算密集型任务,而到了现在它已然成为一套完整的应用运行生态,通常是通过系统语言C/C++/Go和Rust的编译目标之一,Wasm Runtime的出现使得其能够以在非浏览器的环境下运行,WASI API又为Wasm提供了访问系统的能力,比如文件系统和网络等,Wasm除了满足重度计算需求外,还应用于跨平台开发,安全沙箱,容器和虚拟化技术</p><h3 id="1-5-领域特定语言"><a href="#1-5-领域特定语言" class="headerlink" title="1.5 领域特定语言"></a>1.5 领域特定语言</h3><p>领域特定语言(DSL),它通常是在某个现有语言基础上增加一定约束和拓展,应用于某个特定场景,如微信小程序中的WXML,和在React中使用的JSX,Vue中的template,这些都统称为领域特定语言,领域特定语言并不是通用型语言,但是相对于通用性语言来说,它的语法更简单,开发效率更高,专业对口业务,可维护性强</p><h3 id="1-6-JavaScript引擎和运行时"><a href="#1-6-JavaScript引擎和运行时" class="headerlink" title="1.6 JavaScript引擎和运行时"></a>1.6 JavaScript引擎和运行时</h3><p>写的代码要运行当然离不开,JS引擎和JS运行时,JS引擎负责解释和执行JS代码,而JS运行时不仅自带了一个JS引擎,还提供了一些内置对象和API,如DOM,Web API,Node.js API等,项目容易出现浏览器兼容问题多半都是使用的JS运行时不同导致的,如Chrome浏览器提供了基于V8引擎的运行时,而Safari浏览器提供了基于JavaScriptCore引擎的运行时,虽然都提供了Web API,但在实现上又这细微差异</p><p>Node.js是最常用的JS运行时,但在企业级的大型项目Node.js中,仅仅用它还是不够的,大型Node.js的应用还会考虑性能监控,安全提醒,故障排除,性能优化等问题,如阿里云前端基建团队的Node.js性能平台(alinode)就在Node.js的基础上添加了这些功能,提供了一整套方案</p><h2 id="2-简单又复杂的工具链"><a href="#2-简单又复杂的工具链" class="headerlink" title="2. 简单又复杂的工具链"></a>2. 简单又复杂的工具链</h2><h3 id="2-1-什么是工具链"><a href="#2-1-什么是工具链" class="headerlink" title="2.1 什么是工具链"></a>2.1 什么是工具链</h3><p>工具链通常是指一组用于软件开发的工具和技术,帮助开发者管理好从源代码到最终软件的整个开发过程,对于前端来讲这些工具通常包括集成开发环境(IDE),包管理工具,构建工具,调试工具,持续集成和部署(CI/CD)工具等,大多以VSCode作为IDE,这不是因为它具有良好的开发体验,还得益于强大了插件生态,让一些比较新的语言或开发工具也能方便的集成进来,前端开发中的很多人物都可以在VSCode中的一站式完成,如版本控制Git,管理NPM包和脚本,调试Node.js程序等,另外还有许多于本地VSCode相似的云IDE,如腾讯的Cloud studio,阿里云的Cloud IDE等</p><h3 id="2-2-包管理工具"><a href="#2-2-包管理工具" class="headerlink" title="2.2 包管理工具"></a>2.2 包管理工具</h3><p>包管理是现代软件开发绕不开的话题,自前端开启模块化开发后,以npm为代表的包管理器也应运而生,包管理的核心是代码组织与复用,这也是开发大型项目所必须的要求,现代前端的包管理工具又几个代表npm,yarn,pnpm,他们各有特点</p><ul><li><strong>npm</strong>: 广泛采用,兼容性强,速度较慢</li><li><strong>yarn</strong>: 并行安装+缓存,资源消耗较大</li><li><strong>pnpm</strong>: 共享依赖模型,兼容性问题较多</li></ul><p>如上特点可以看到每一代包管理器都会解决上一代的问题,又快又省是包管理器的核心演进方向,前端有一个数量很大的软件生态,大到一个工具小到一个函数都可以坐成一个包,许多包有直接或间接依赖另一些包,在加上版本不同,因此包管理是一件相当复杂的事,虽然开源包管理工具已经很好的解决了安装速度和资源消耗的问题,但是企业级的包管理还可以做更多事情,比较典型的场景是应对供应链的污染,前端项目的直接供应商是npm仓库,一个带有bug的包发布后会导致本地或持续集成环境产生问题,因此企业级包管理器会在开源包管理器的基础上,增加对bug包的黑名单控制,例如cnpm的bug-versions就是维护了一套黑名单</p><h3 id="2-3-构建工具"><a href="#2-3-构建工具" class="headerlink" title="2.3 构建工具"></a>2.3 构建工具</h3><p>前端构建工具的出现比较晚,首先是基于Task Runner 的 Grunt(2010) 和 Gulp(2013)以及模块化打包工具Browserify(2011),Webpack(2012)和Rollup(2015)然后是现代的Parcel(2017),vite(2020),Turbopack(2022)和Rspack(2023)等,现代前端构建工具通常包含代码转译器,优化器,打包器,开发服务器,和插件系统</p><ul><li><strong>转译器</strong>: 负责将源代码转换为目标平台可以直接运行的代码,同时让一些比较新的语言特性可以兼容旧的环境,如JSX到JS的转换</li><li><strong>优化器</strong>: 优化器是将转译完成的代码进一步优化,如压缩,混淆和分割,以提升传输效率和安全性</li><li><strong>打包器</strong>: 打包器将转译好的代码合并到一起通常内置转译器和优化器从源代码到最终产物一站式完成</li><li><strong>开发服务器</strong>: 开发服务器提供一个本地的http服务器,通过HMR,传输原生ES模块,接口代理等功能来提高开发体验</li><li><strong>插件系统</strong>: 插件系统是功能拓展的主要方式,可以灵活改变整个构建项目的行为,来实现定制化需求</li></ul><p>近些年前端构建工具的大趋势是机制整合以及使用Rust重写核心模块</p><ul><li><strong>极致整合</strong>: 为了减少学习负担</li><li><strong>Rust重写核心模块</strong>: 为了显著提升构建和打包效率</li></ul><h3 id="2-4-调试工具"><a href="#2-4-调试工具" class="headerlink" title="2.4 调试工具"></a>2.4 调试工具</h3><p>现代前端针对不同的场景会用到不同的调试工具,浏览器开发者工具用于普通的HTML界面的UI,网络,性能调试,比如Chrome DevTools,小程序开发者工具用于小程序模拟和真机调试,接口调试工具Postman,Charles等,框架自带的调试工具,如React Developer,Vue Devtools等,它们可以展示更为直观的虚拟DOM结构和组件状态</p><h3 id="2-5-CI-CD工具"><a href="#2-5-CI-CD工具" class="headerlink" title="2.5 CI/CD工具"></a>2.5 CI/CD工具</h3><p>一个健壮和可靠的软件研发流程离不开持续集成(CI)和持续部署(CD),CI/CD在现代前端也是必不可少的,它并不复杂,现在我们可以借助Github Action,Travis CI,Jenkins等工具或平台来轻松完成这些事情</p><h3 id="2-6-为什么简单的的同时复杂"><a href="#2-6-为什么简单的的同时复杂" class="headerlink" title="2.6 为什么简单的的同时复杂"></a>2.6 为什么简单的的同时复杂</h3><ul><li><p><strong>简单</strong>: 因为它对开发这屏蔽了许多内部细节,比如基本都内置了诸如HMO,转译工具,CSS预处理等工具,配合脚手架用起来简单</p></li><li><p><strong>复杂</strong>: 因为它们有的选择兼容Rollup生态(vite),有的选择兼容Webpack(Rspack)生态,有的则另辟蹊径(Turbopack),这导致它们的底层架构大不相同,如开发者需要深度定制,则会面临许多取舍和困难</p></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;关于前端的知识二&quot;&gt;&lt;a href=&quot;#关于前端的知识二&quot; class=&quot;headerlink&quot; title=&quot;关于前端的知识二&quot;&gt;&lt;/a&gt;关于前端的知识二&lt;/h1&gt;&lt;h2 id=&quot;1-编程语言&quot;&gt;&lt;a href=&quot;#1-编程语言&quot; cl</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="https://qiride.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于前端的知识一</title>
+    <link href="https://qiride.github.io/post/e9c05029.html"/>
+    <id>https://qiride.github.io/post/e9c05029.html</id>
+    <published>2025-02-13T06:45:28.790Z</published>
+    <updated>2025-02-17T07:25:25.232Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="关于前端的知识一"><a href="#关于前端的知识一" class="headerlink" title="关于前端的知识一"></a>关于前端的知识一</h1><p>本文章主要讲解什么是前端以及了解什么是DNS,http</p><h2 id="1-什么是前端"><a href="#1-什么是前端" class="headerlink" title="1.什么是前端"></a>1.什么是前端</h2><h3 id="1-1-前端的历史"><a href="#1-1-前端的历史" class="headerlink" title="1.1 前端的历史"></a>1.1 前端的历史</h3><p>前端的历史可以追溯到1990年代，当时的互联网还处于早期阶段，网页的设计和开发主要依赖于静态的HTML页面。随着互联网的发展，前端技术也逐渐得到了广泛的应用。</p><h3 id="1-2-现代前端的工作"><a href="#1-2-现代前端的工作" class="headerlink" title="1.2 现代前端的工作"></a>1.2 现代前端的工作</h3><p>现代前端除了解决人机交互这个主要问题外,还拓展出了很多用户体验和工程问题</p><p>用户体验:</p><ul><li><strong>性能优化</strong>: 更加有效的提升用户界面的加载效率</li><li><strong>无障碍化</strong>: 如何保证在不同设备上的兼容性 </li><li><strong>交互设计</strong>: 如何改善在移动设备的交互方式</li><li><strong>个性化需求</strong>: 如何满足个性化需求</li></ul><p>工程配置:</p><ul><li><strong>研发质量</strong>: 如何大幅度提高开发效率和质量</li><li><strong>安全措施</strong>: 如何保证前端安全</li><li><strong>监控和数据</strong>: 如何利用实时监控了解应用健康度</li><li><strong>部署运维</strong>: 如何利用云基础平台进行部署和运维</li></ul><h3 id="1-3-现代前端与过去的区别"><a href="#1-3-现代前端与过去的区别" class="headerlink" title="1.3 现代前端与过去的区别"></a>1.3 现代前端与过去的区别</h3><p>过去的前端主要依赖于HTML、CSS和JavaScript,等技术完成界面开发，对接后端接口即可</p><p>现代前端的能力边界已经拓展了许多，还需要照顾到体验,效能,工程化,数据运营,部署运维,终端安全,多端适配等,这些都是为了更好的服务与人机交互</p><p>举个栗子!现代前端的界面渲染方式已经从客户端渲染(CSR)过渡到部分服务端渲染(SSR),而流式渲染(Streaming)我认为是未来的趋势,流式渲染与服务器渲染的最大区别简单来说就是流式渲染的速度比服务器渲染快</p><p>现代前端很多时候都不全是在做前端的事,前端与服务端的界限已经越来越模糊,当然前端借助服务端所做的一切都是为了服务于用户的体验</p><h2 id="2-什么是DNS"><a href="#2-什么是DNS" class="headerlink" title="2.什么是DNS"></a>2.什么是DNS</h2><p>DNS(Domain Name System)是互联网的基础,它将域名和IP地址相互映射,使得用户可以通过域名访问网站,而不是IP地址,现代DNS服务器除了基本的域名解析功能外，还会提供安全插件(DNSSEC),DNS分析,边缘网络加速解析,DDos防护等功能,这些功能都是为了更快,更安全的为用户提供服务</p><h3 id="2-1-DNS的工作原理"><a href="#2-1-DNS的工作原理" class="headerlink" title="2.1 DNS的工作原理"></a>2.1 DNS的工作原理</h3><p>当用户在浏览器中输入一个域名时,浏览器会首先检查本地的DNS缓存,如果缓存中有对应的IP地址,则直接返回,否则会向本地DNS服务器,最后得到的是IP地址,当然这些服务器大概率不是最终的应用服务器，而是具有反向代理的负载均衡(LB)服务器或WEB应用防火墙(WAW)等,真正的应用服务器IP地址不会暴露在公网环境</p><h3 id="2-2-内容分发系统-CDN-与DNS的关系"><a href="#2-2-内容分发系统-CDN-与DNS的关系" class="headerlink" title="2.2 内容分发系统(CDN)与DNS的关系"></a>2.2 内容分发系统(CDN)与DNS的关系</h3><p>在不同地区的用户在访问前端静态资源时会从不同的cdn节点下载数据,这归功于DNS系统的CNAME记录,DNS服务器会根据用户所在地区的不同,将用户引导到最近的cdn节点也就是CNAME域名,从而提高用户的访问速度</p><p>举个栗子,假如我们的图片资源托管在img.alicdn.com上,通过nslookup工具以此查询当前域名的CNAME和A记录,最终我们会得到CDN服务器的IP地址,实际的地理位置会是在离你最近的CDN节点上</p><p>如栗子所说DNS解析不是一轮完成,会进行多次查询,所以会非常慢,所以不管是DNS云服务器还是互联网上的基础设施,都会想尽办法加速DNS解析的速度如使用高性能的DNS服务器,DNS缓存，增加DNS记录的缓存时间(TTL)等方式,作为前端我们可是使用浏览器提供的DNS预取功能<link rel='dns-prefetch' href='//cdn.example.com'/>来指定需要提前解析的域名,也可以根据DNS的缓存原理通过本地调试的方式设置本地host来解决cookies的跨域问题</p><h2 id="3-什么是HTTP协议"><a href="#3-什么是HTTP协议" class="headerlink" title="3.什么是HTTP协议"></a>3.什么是HTTP协议</h2><p>HTTP协议是连接世界的桥梁,是人们打开互联网的y钥匙,它对于前端的重要性是毫无疑问的,虽然HTTP叫传输协议,但它实际上是工作在TCP/IP协议栈的应用层,底层的数据传输由TCP或UDP负责</p><h3 id="3-1-HTTP的版本"><a href="#3-1-HTTP的版本" class="headerlink" title="3.1 HTTP的版本"></a>3.1 HTTP的版本</h3><ul><li><strong>HTTP/1.1</strong>: 目前还是广泛的版本,它支持持久连接,支持管线化,支持请求和响应的压缩,支持缓存等</li><li><strong>HTTP/2</strong>:引入了多路复用,二进制帧层,头部压缩等特性,提高了不少传输性能</li><li><strong>HTTP/3</strong>:基于QUIC协议使用UDP作为传输层,进一步降低了链接延迟和提高了不少传输性能</li></ul><p>HTTPS是HTTP的安全版本,它使用了SSL/TLS协议来加密数据传输,确保数据的安全性,HTTPS的加密方式有对称加密和非对称加密两种,对称加密是指加密和解密使用同一个密钥,而非对称加密是指加密和解密使用不同的密钥,HTTPS的加密方式是先使用非对称加密来交换密钥,然后使用对称加密来加密数据,这样可以保证数据的安全性(HTTP/3 强制要求需要)</p><h3 id="3-2-HTTP的工作原理"><a href="#3-2-HTTP的工作原理" class="headerlink" title="3.2 HTTP的工作原理"></a>3.2 HTTP的工作原理</h3><p>HTTP协议是基于请求和响应的,客户端向服务器发送请求,服务器处理请求并返回响应,HTTP协议是无状态的,即每次请求都是独立的,服务器不会记录客户端的状态,HTTP协议是基于TCP/IP协议栈的应用层协议,底层的数据传输由TCP或UDP负责</p><p>举个栗子,我的图片放在服务器上,我如果要得到这张图片我可以通过向服务器发送我想要图片的这个请求，服务器收到后会给我反馈也就是响应常见的响应是JSON格式的其中注意code返回的值2开头标识成功,4开头标识失败,5开头标识服务器错误,常见的响应状态码有200,301,302,404,500等</p><h3 id="3-3-异步请求"><a href="#3-3-异步请求" class="headerlink" title="3.3 异步请求"></a>3.3 异步请求</h3><p>前端和服务端的异步请求求通常也是通过HTTP协议完成,最早是通过XMLHttpRequest(XHR)完成的,但是随着ES6的出现,前端也可以使用Fetch API来完成异步请求,异步请求的好处是可以提高用户体验,减少页面的加载时间,但是也会带来一些问题,如请求的顺序问题,请求的并发数问题,请求的缓存问题等,这些问题都需要我们在开发中进行考虑</p><h3 id="3-4-调试工具"><a href="#3-4-调试工具" class="headerlink" title="3.4 调试工具"></a>3.4 调试工具</h3><p>浏览器开发者工具,在Chrome浏览器中可以使用F12打开开发者工具,在开发者工具中通过Network选项卡查看网络请求的请求和响应信息,如想快速看看可以通过cURL等命令行工具完成,在对api测试时可以使用Postman等自动化工具来批量完成,如需要调试移动设备的HTTPS则需要安装信任证书以及通过网络代理工具来实现,如对于远程以及生产环境则需要使用抓包工具和分析服务器日志来完成</p><h3 id="3-5-HTTP在大型客户端应用中的变体"><a href="#3-5-HTTP在大型客户端应用中的变体" class="headerlink" title="3.5 HTTP在大型客户端应用中的变体"></a>3.5 HTTP在大型客户端应用中的变体</h3><p>为了更高效和安全的传输数据,同时兼容HTTP协议,会有一些变化,不是所有的客户端环境都支持先进的HTTP/2或HTTP/3原始HTTP协议在更复杂的高并发场景下会不够高效或稳定,大型技术基建通常会设计一层无线网关(Gateway)并对HTTP协议进行定制添加登录验证,请求跟踪,监控,限流等功能,而前端代码通过远程过程调用(RPC)的方式,而不是使用原始的HTTP,定制化的HTTP协议可以带来更加强大的功能</p></blockquote><!-- 举个栗子,bilibili前端发起一个grpc请求刀gateway网关,同时发送多个自定义请求头 -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;关于前端的知识一&quot;&gt;&lt;a href=&quot;#关于前端的知识一&quot; class=&quot;headerlink&quot; title=&quot;关于前端的知识一&quot;&gt;&lt;/a&gt;关于前端的知识一&lt;/h1&gt;&lt;p&gt;本文章主要讲解什么是前端以及了解什么是DNS,http&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="https://qiride.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于使用JMeter进行并发量测试</title>
+    <link href="https://qiride.github.io/post/a1286495.html"/>
+    <id>https://qiride.github.io/post/a1286495.html</id>
+    <published>2025-02-12T05:06:46.000Z</published>
+    <updated>2025-02-17T07:28:18.952Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于使用JMeter进行并发量测试"><a href="#关于使用JMeter进行并发量测试" class="headerlink" title="关于使用JMeter进行并发量测试"></a>关于使用JMeter进行并发量测试</h1><blockquote><p>在当今的互联网时代，网站的并发量测试是确保网站稳定性和性能的重要手段之一。对于使用Vue.js构建的前端网站，使用JMeter进行并发量测试可以帮助我们了解网站在高并发情况下的表现。本文将介绍如何使用JMeter对Vue网站进行并发量测试。</p><h2 id="1-JMeter什么东东"><a href="#1-JMeter什么东东" class="headerlink" title="1. JMeter什么东东"></a>1. JMeter什么东东</h2><p>Apache JMeter是一个开源的性能测试工具，主要用于对Web应用程序进行负载测试和性能测试。它支持多种协议，如HTTP、HTTPS、FTP、SOAP、REST等，并且可以通过插件扩展功能。</p><h2 id="2-前提条件"><a href="#2-前提条件" class="headerlink" title="2. 前提条件"></a>2. 前提条件</h2><p>在开始测试之前，我们需要准备以下内容：</p><ul><li><strong>JMeter安装</strong>：确保已经安装并配置好JMeter。可以从<a href="https://jmeter.apache.org/download_jmeter.cgi">Apache JMeter官网</a>下载最新版本。</li><li><strong>测试计划</strong>：明确测试的目标，例如测试网站的登录接口、数据加载接口等。<h2 id="3-创建JMeter测试计划"><a href="#3-创建JMeter测试计划" class="headerlink" title="3. 创建JMeter测试计划"></a>3. 创建JMeter测试计划</h2></li></ul><h3 id="3-1-添加线程组"><a href="#3-1-添加线程组" class="headerlink" title="3.1 添加线程组"></a>3.1 添加线程组</h3><ol><li>打开JMeter，右键点击“Test Plan”，选择“Add” -&gt; “Threads (Users)” -&gt; “Thread Group”。</li><li>在“Thread Group”中设置线程数（即并发用户数）、Ramp-Up时间（用户启动时间）和循环次数。</li></ol><h3 id="3-2-添加HTTP请求"><a href="#3-2-添加HTTP请求" class="headerlink" title="3.2 添加HTTP请求"></a>3.2 添加HTTP请求</h3><ol><li>右键点击“Thread Group”，选择“Add” -&gt; “Sampler” -&gt; “HTTP Request”。</li><li>在“HTTP Request”中设置服务器名称或IP（即你的Vue网站地址）、端口号、请求方法（GET/POST等）以及路径。</li><li>如果需要传递参数，可以在“Parameters”或“Body Data”中设置。</li></ol><h3 id="3-3-添加监听器"><a href="#3-3-添加监听器" class="headerlink" title="3.3 添加监听器"></a>3.3 添加监听器</h3><ol><li>右键点击“Thread Group”，选择“Add” -&gt; “Listener” -&gt; “View Results Tree”。</li><li>添加其他监听器，如“Summary Report”或“Graph Results”，以便查看测试结果。</li></ol><h3 id="4-运行测试"><a href="#4-运行测试" class="headerlink" title="4. 运行测试"></a>4. 运行测试</h3><ol><li>点击JMeter工具栏上的“Start”按钮，开始运行测试。</li><li>在测试过程中，可以通过监听器实时查看测试结果。</li></ol><h3 id="5-分析测试结果"><a href="#5-分析测试结果" class="headerlink" title="5. 分析测试结果"></a>5. 分析测试结果</h3><p>测试完成后，可以通过以下方式分析结果：</p><ul><li><strong>View Results Tree</strong>：查看每个请求的详细结果，包括请求和响应数据。</li><li><strong>Summary Report</strong>：查看测试的总体结果，包括平均响应时间、吞吐量、错误率等。</li><li><strong>Graph Results</strong>：以图表形式展示响应时间、吞吐量等指标的变化趋势。</li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于使用JMeter进行并发量测试&quot;&gt;&lt;a href=&quot;#关于使用JMeter进行并发量测试&quot; class=&quot;headerlink&quot; title=&quot;关于使用JMeter进行并发量测试&quot;&gt;&lt;/a&gt;关于使用JMeter进行并发量测试&lt;/h1&gt;&lt;blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="学习笔记" scheme="https://qiride.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站啦！！！</title>
+    <link href="https://qiride.github.io/post/21ba1eea.html"/>
+    <id>https://qiride.github.io/post/21ba1eea.html</id>
+    <published>2025-02-11T05:04:23.000Z</published>
+    <updated>2025-02-17T07:32:34.511Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="建站啦！！！"><a href="#建站啦！！！" class="headerlink" title="建站啦！！！"></a>建站啦！！！</h1><blockquote><p>2025-02-11 13:04:23<br>今天是我建站的第一天，我要做一个博客，记录我的学习过程，也记录我的生活。</p><h2 id="我要做什么？"><a href="#我要做什么？" class="headerlink" title="我要做什么？"></a>我要做什么？</h2><ul><li>记录我的学习过程</li><li>记录我的生活</li><li>记录我的心情</li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;建站啦！！！&quot;&gt;&lt;a href=&quot;#建站啦！！！&quot; class=&quot;headerlink&quot; title=&quot;建站啦！！！&quot;&gt;&lt;/a&gt;建站啦！！！&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;2025-02-11 13:04:23&lt;br&gt;今天是我建站的第一天，我要做一个博客</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
