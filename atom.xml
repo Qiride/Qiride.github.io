@@ -6,7 +6,7 @@
   <link href="https://qiride.github.io/atom.xml" rel="self"/>
   
   <link href="https://qiride.github.io/"/>
-  <updated>2025-04-20T02:18:50.217Z</updated>
+  <updated>2025-05-18T02:34:46.200Z</updated>
   <id>https://qiride.github.io/</id>
   
   <author>
@@ -17,11 +17,80 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>每周总结-10</title>
+    <link href="https://qiride.github.io/post/3ffe79d3.html"/>
+    <id>https://qiride.github.io/post/3ffe79d3.html</id>
+    <published>2025-05-18T01:57:31.000Z</published>
+    <updated>2025-05-18T02:34:46.200Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-10-关于本周的收回以及对于未来的展望"><a href="#每周总结-10-关于本周的收回以及对于未来的展望" class="headerlink" title="每周总结-10(关于本周的收回以及对于未来的展望)"></a>每周总结-10(<strong>关于本周的收回</strong>以及<strong>对于未来的展望</strong>)</h1><p>感到不开心的一周，对自己的一些不开心的事情进行总结，以及对未来的展望</p><h2 id="1-关于本周的收回"><a href="#1-关于本周的收回" class="headerlink" title="1.关于本周的收回"></a>1.关于本周的收回</h2><ul><li><strong>无人机</strong></li><li><strong>react</strong></li><li><strong>api</strong></li></ul><h3 id="1-1-无人机"><a href="#1-1-无人机" class="headerlink" title="1.1.无人机"></a>1.1.无人机</h3><p>无人机嗯老项目了，这周比完就可以休息了，这是一个技能节比赛项目分为手动和自动，我报名的是自动赛道，但是上周除了使用ssh远程链接无人机外没有对于使用代码完成控制的demo了，下周会进行关于代码方面的学习，希望有所收回</p><h3 id="1-2-react"><a href="#1-2-react" class="headerlink" title="1.2.react"></a>1.2.react</h3><p>react老东西了，差不多学完了，这周看看能不能通过一个复杂一点的demo完成学习，然后react也差不多了，可以去继续对于node的学习然后在挑战工具链最后学习服务器框架</p><h3 id="1-3-api"><a href="#1-3-api" class="headerlink" title="1.3.api"></a>1.3.api</h3><p>api范式，嗯这个是个新坑了，主要是设计理念和开发模式，这周的大部分时间估计会在这个上面，REST,GraphQL等api开发范式，正好可以于react+spring结合同时学习3个内容一举三得</p><h2 id="2-对于未来的展望"><a href="#2-对于未来的展望" class="headerlink" title="2.对于未来的展望"></a>2.对于未来的展望</h2><ul><li><strong>学习</strong></li><li><strong>生活</strong></li></ul><h3 id="2-1-学习"><a href="#2-1-学习" class="headerlink" title="2.1.学习"></a>2.1.学习</h3><p>学习方面呢，因为后续要去实习了压力很大然后呢，我是打算在工作过程中自己抽时间学习，毕竟我毕业院校就这样了，先把实习期熬过去，不知道能不能找到一个复杂的具有挑战性的demo，不能固定自己的职务，我的最终目标是想要成为架构师(难)，所以我打算挑战一下各种各样的demo和需求以及复杂的业务逻辑，这需要很广的知识面，也需要很多的经验，从前端开始入门后续可以试试能不能转到其他岗位</p><h3 id="2-2-生活"><a href="#2-2-生活" class="headerlink" title="2.2.生活"></a>2.2.生活</h3><p>生活方面呢收获可能加较大，这几天我反思了一下我这段时间的所作所为，发现于成为架构师的最终目标有不少的区别(可能是心理作用)，也可能是毕业季了，心开始乱了，投递好多简历没有反馈的急切感，需要反思一下这样盲目的学习对于我们有任何好处</p><p>当前的目标是成为一个优秀的前端开发者，在开发团队中需要具有更强的能力，以及维护好人与人的能力，同时要有自己的判断能力，以及技术选型能力，还需要从不同的角度观察界面完善人机交互，以及用户体验</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>这周是精神上的进化，对于自己的不开心事情进行了总结，对于未来的展望也有了一些规划，希望能够在未来的一段时间内有所收获，也希望能够在未来的一段时间内有所改变，也希望能够在未来的一段时间内有所成长</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-10-关于本周的收回以及对于未来的展望&quot;&gt;&lt;a href=&quot;#每周总结-10-关于本周的收回以及对于未来的展望&quot; class=&quot;headerlink&quot; title=&quot;每周总结-10(关于本周的收回以及对于未来的展望)&quot;&gt;&lt;/a&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-9</title>
+    <link href="https://qiride.github.io/post/4acef682.html"/>
+    <id>https://qiride.github.io/post/4acef682.html</id>
+    <published>2025-05-11T00:38:49.000Z</published>
+    <updated>2025-05-11T01:02:41.437Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-9-无人机，FramerMotion，项目经验"><a href="#每周总结-9-无人机，FramerMotion，项目经验" class="headerlink" title="每周总结-9(无人机，FramerMotion，项目经验)"></a>每周总结-9(无人机，FramerMotion，项目经验)</h1><p>五一忘记写了，这次就吧五一的一起写上吧从3个角度开始无人机,FramerMotion,项目经验</p><h2 id="1-关于无人机"><a href="#1-关于无人机" class="headerlink" title="1.关于无人机"></a>1.关于无人机</h2><p>这个说实话是全新的领域，是有个比赛临时要求去学的，挺有意思的通过图片训练一个图片识别的模型，将模型通过ssh导入硬件检测设施，还有关于无人机的拆卸，挺新奇的体验的，还去试飞了无人机后续需要自己编写程序控制无人机飞行同时完成定点投放，这几天还没接触到自主飞行，还在使用遥控器控制，开的时候坠机了qvq，还把机翼给搞得缺了一个口子</p><h2 id="2-FramerMotion"><a href="#2-FramerMotion" class="headerlink" title="2.FramerMotion"></a>2.FramerMotion</h2><p>FramerMotion是一个react的动画框架，这个架构挺有意思的，同时可以学习react的基础语法，通过motion为标签添加使用这个动画的标签头，然后通过motion.div等标签来添加动画，这个框架的写法也比较优雅，可读性很高，使用也非常简单，支持各种不同场景下渲染，和不同的渲染方式，我觉得有很高的可用性</p><h2 id="3-项目经验"><a href="#3-项目经验" class="headerlink" title="3.项目经验"></a>3.项目经验</h2><p>项目经验方面这周主要是理念方面的改变，对关于权限管理的RBAC权限分布架构有了新的认识，前端的逻辑方面也进行了优化，对重复调用接口的操作进行了限制，同时优化了代码结构，对代码的可读性进行了提升</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这段时间其实挺复杂的面试碰壁，临近毕业同学们压力都起来了，挺累的有一说一，后续的话还是要先将node学习完成后可以去学习工具链方面的内容了，听说工具链很多东西很难，下周多分配一点node的学习时间，加快进度，看看工具链怎么个事，好了本周的总结到此结束</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-9-无人机，FramerMotion，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-9-无人机，FramerMotion，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结-9(无人机，FramerMotion</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周总结-8</title>
+    <link href="https://qiride.github.io/post/3dc9c614.html"/>
+    <id>https://qiride.github.io/post/3dc9c614.html</id>
+    <published>2025-04-26T05:57:14.000Z</published>
+    <updated>2025-04-26T06:17:03.599Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h1 id="每周总结-React，FramerMotion，项目经验"><a href="#每周总结-React，FramerMotion，项目经验" class="headerlink" title="每周总结(React，FramerMotion，项目经验)"></a>每周总结(React，FramerMotion，项目经验)</h1><p>本周的内容还是不少的react+ts，FramerMotion，项目经验，下面是我对于这部分的总结</p><h2 id="1-关于React"><a href="#1-关于React" class="headerlink" title="1.关于React"></a>1.关于React</h2><p>关于本周的react学习主要是路由方面和组件化感觉与vue很像，语法方面比vue灵活很多好些很多，同时写法也比较灵活，如果需要使用在团队协作上需要有合理的规范，打算下周看看关于请求方面的内容，还有就是react+ts好难写啊那个响应式数据的数据类型也需要定义，后续还需要继续学习</p><h2 id="2-关于FramerMotion"><a href="#2-关于FramerMotion" class="headerlink" title="2.关于FramerMotion"></a>2.关于FramerMotion</h2><p>关于FramerMotion的学习,起因是想要弥补压下我在样式方面的短板，在网上查资料是发现的这个动画库然后在bilibili找了个课程看了一下，那个老师讲的挺好的还有许多关于css方便的内容，感觉这个库的写法挺优雅的，可读性很高，使用也非常简单，后续还需要继续学习</p><h2 id="3-关于项目经验"><a href="#3-关于项目经验" class="headerlink" title="3.关于项目经验"></a>3.关于项目经验</h2><p>这周项目上线了，出现了一个非常奇怪的问题登陆时如果同时登陆会都登陆不上，因为后台做了限制，然后想了很久，我认为是因为线程的问题，因为项目部署在云端，我们访问云端发送请求时会有一个问题就是地址时云端的地址如果很多人在同一时间发送请求会触发后台的限制，我给出的解决方案是通过线程的方式，每次访问时开启一个新的子进程，避免了后台的限制，想法是这样的，看看老师和同学有没有个更好的解决方案</p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>react+ts，FramerMotion，项目经验，这部分的内容是比较新的内容了，主要是在学习react方面的知识，以及FramerMotion方面的知识，以及项目经验的提升，关于react+ts的学习是对于我来说是比较新的内容了，后续的话可能可以在这个过程中有更大的收获</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h1 id=&quot;每周总结-React，FramerMotion，项目经验&quot;&gt;&lt;a href=&quot;#每周总结-React，FramerMotion，项目经验&quot; class=&quot;headerlink&quot; title=&quot;每周总结(React，FramerMotion</summary>
+      
+    
+    
+    
+    
+    <category term="每周总结" scheme="https://qiride.github.io/tags/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>每周总结-7</title>
     <link href="https://qiride.github.io/post/ad76db85.html"/>
     <id>https://qiride.github.io/post/ad76db85.html</id>
     <published>2025-04-20T01:58:58.000Z</published>
-    <updated>2025-04-20T02:18:50.217Z</updated>
+    <updated>2025-04-26T06:08:14.777Z</updated>
     
     <content type="html"><![CDATA[<blockquote><h1 id="每周总结-自动化测试，TS，React"><a href="#每周总结-自动化测试，TS，React" class="headerlink" title="每周总结(自动化测试，TS，React)"></a>每周总结(自动化测试，TS，React)</h1><p>关于本周的收获包括上课内容和课下内容，自动化测试，TS，React</p><h1 id="1-关于自动化测试"><a href="#1-关于自动化测试" class="headerlink" title="1.关于自动化测试"></a>1.关于自动化测试</h1><p>关于自动化测试本周学习的是显式和隐式等待是python的selenium测试工具通过使用网页驱动完成网页的自动化测试,显式和隐式的区别在于:</p><ol><li>应用范围：显式等待通常用于特定的元素或条件，而隐式等待是全局设置，应用于所有的元素查找。</li><li>灵活性：显式等待提供了更多的灵活性，因为它可以根据不同的条件进行等待，而隐式等待对所有元素使用相同的等待时间。</li><li>性能：显式等待通常更高效，因为它只在必要时等待，而隐式等待在每次查找元素时都会等待，可能会导致测试执行时间变长。</li><li>编码：显式等待需要更多的编码工作，因为你需要定义等待条件和最大等待时间，而隐式等待只需要设置一次即可。</li></ol><p>主要是根据需求自行选择使用即可</p><h1 id="2-关于TS"><a href="#2-关于TS" class="headerlink" title="2.关于TS"></a>2.关于TS</h1><p>ts呢是新学的主要是对于js的类型为空看的太多了，想换一个强类型的试试，目前是学习了以下几点:</p><ol><li>类型-可以使用类似于java的类和接口的方式自定义数据模型还是很有用的在对于项目协调上有不少的作用，与后端完成数据模型的交互，减少了很多的错误</li><li>类型检查-在编译阶段进行类型检查，可以提早发现代码的typeError每次写js调试的时候总是会跳出这个报错，ts在编译阶段就可以发现</li></ol><p>以上呢是这周我对于ts的学习部分的理解和总结</p><h1 id="3-关于React"><a href="#3-关于React" class="headerlink" title="3.关于React"></a>3.关于React</h1><p>react呢是新学的，主要是项目基本开发完成了现在有点无聊找点事情做就选择了react进行学习,主要是学习了以下几点:</p><ol><li>关于基础语法-react一react基本就是在逻辑语法里面写标签通过jsx的语法来实现，对于react的基础语法还是比较简单的</li><li>关于组件-组件是react的核心概念，通过组件可以实现代码的复用，提高开发效率，对于组件的使用也比较简单</li><li>关于状态管理-状态管理是react的核心概念，通过状态管理可以实现组件之间的数据共享，提高开发效率，对于状态管理的使用也比较简单</li></ol><p>我觉得react与vue的区别在于设计理念上，jsx文件和vue的文件差别还是挺大的，vue的标签和逻辑代码需要分开写，而react可以写在一起，感觉vue是通过组件来实现的，而react是通过函数来实现的，感觉vue的组件更加的清晰，react的函数更加的灵活，这个方面的设计理念还是要区分开的</p><h1 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h1><p>这周的收获还是挺大的，主要是在学习自动化测试方面的知识，以及TS方面的知识，以及React方面的知识，关于ts和react的学习是对于我来说是比较新的内容了，后续的话可能可以在这个过程中有更大的收获</p></blockquote>]]></content>
     
